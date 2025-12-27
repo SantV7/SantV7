@@ -1,6 +1,7 @@
 ## Vinícius
 ### Front-End 
 ---
+Me chamo Vinícius. Tenho 18 anos. Atualmente moro em Brasília. Gosto bastante de informática e tecnologia. Atualmente estou estudando Front-End. Gosto bastante de aprender coisas novas e que me proporcionam contribuição no meu conhecimento.
 
 ### Linguagens
 
