@@ -1,11 +1,11 @@
 ## 👋 Vinícius (Sant V7)
 ### Front-End Developer 
 ---
-Tenho 18 anos, moro em Brasília e sou apaixonado por tecnologia. Atualmente focado em desenvolvimento Front-End, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+Tenho 18 anos, moro em Brasília e sou apaixonado por tecnologia. Atualmente focado em desenvolvimento Front-End, sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que amo, e me aprimorar em uma boa empresa de valores e ideais a seguir.
 
 ### 🛠️ Tecnologias
 
-<div style="display: flex; gap: 30px; margin-top: 10px; margin-bottom: 20px;">
+<div style="display: flex; gap: 12px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
