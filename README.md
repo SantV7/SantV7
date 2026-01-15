@@ -13,10 +13,3 @@ Tenho 18 anos, moro em Brasília e sou apaixonado por tecnologia. Atualmente foc
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-### 📈 Atividade no GitHub
-
-<img src="https://raw.githubusercontent.com/santv7/santv7/output/snake.svg" alt="Snake animation" />
-
-### 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
