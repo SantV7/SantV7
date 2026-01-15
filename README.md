@@ -6,7 +6,7 @@ Tenho 18 anos, moro em Brasília e sou apaixonado por tecnologia. Gosto muito de
 ### 🛠️ Tecnologias
 
 <div style="display: flex; gap: 18px; margin-top: 10px; margin-bottom: 20px;">
-  <img cursor:none; alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img cursor="none" alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
