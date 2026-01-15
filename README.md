@@ -48,7 +48,6 @@ Me chamo Vinícius. Tenho 18 anos. Atualmente moro em Brasília. Gosto bastante 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img src="https://raw.githubusercontent.com/santv7/santv7/output/snake.svg" alt="Snake animation" />
 
 
 
