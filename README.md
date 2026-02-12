@@ -1,7 +1,7 @@
 ## 👋 Vinícius (Sant V7)
 ### Front-End Developer 
 ---
-Tenho 18 anos, moro em Brasília e sou apaixonado por tecnologia. Gosto muito de Desenvolvimento Web - Frontend, sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que amo, e me aprimorar em uma boa empresa de valores e ideais a seguir.
+Tenho 18 anos, moro em Brasília e sou gosto muito de tecnologia. Gosto muito de Desenvolvimento Web - Frontend, sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar nisso.
 
 ### 🛠️ Tecnologias
 
