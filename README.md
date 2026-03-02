@@ -5,7 +5,7 @@ Tenho 18 anos, moro em Brasília e gosto muito de tecnologia. Gosto muito de Des
 
 ### 🛠️ Tecnologias
 
-<div style="display: flex; gap: 18px; margin-top: 10px; margin-bottom: 20px;">
+<div style="display: flex; flex-flow: row nowrap; gap: 18px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
