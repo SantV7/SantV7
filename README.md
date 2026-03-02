@@ -6,7 +6,7 @@ sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma o
 
 ### 🛠️ Tecnologias
 
-<div style="display: flex; flex-flow: row nowrap; gap: 18px; margin-top: 10px; margin-bottom: 20px;">
+<div style="display: flex; flex-flow: row nowrap; gap:25px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   <img alt="CSS" title="CSS" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="35px"
