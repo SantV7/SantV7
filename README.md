@@ -3,6 +3,12 @@
 ---
 Tenho 18 anos, moro em Brasília e gosto muito de tecnologia. Gosto muito de Desenvolvimento Web - Frontend,
 sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar nisso.
+Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
+Meu objetivo é conseguir um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
+
+Bibliotecas de Animação - Gsap
+UX/UI - estudando
+
 
 ### 🛠️ Tecnologias
 
