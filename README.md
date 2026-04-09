@@ -22,7 +22,7 @@ Meu objetivo é conseguir um estágio e entender a lógica por trás de cada lin
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 
-  <div style="display: flex; flex-flow: column nowrap; gap:5px; margin-top: 5px; margin-bottom: 10px;">
+  <div style="display: flex; flex-flow: column nowrap; gap:10px; margin-top: 20px; margin-bottom: 20px;">
     <div>• HTML</div>
     <div>• CSS</div>
     <div>• JavaScript</div>
@@ -30,7 +30,7 @@ Meu objetivo é conseguir um estágio e entender a lógica por trás de cada lin
     <div>• React - Estudando</div>
     <div>• Saas - Estudando</div>
     <div>• Git e GitHub</div>
-    <div>UX/UI</div>
+    <div>• UX/UI</div>
   </div>
   
 </div>
