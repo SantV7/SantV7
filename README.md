@@ -7,16 +7,16 @@ Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica 
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
 ### 🎮 Projetos
-Portfólio: https://portfolio-santv7.vercel.app
+Portfólio: https://portfolio-santv7.vercel.app <br>
   Portfólio pessoal feito por mim - React
   
-Dashboard: https://dashboard-coins.vercel.app/
+Dashboard: https://dashboard-coins.vercel.app/ <br>
     Consumo de API para conversão de valores e buscade dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React  / API
   
-Pizzaria:  https://pizzaria-zeta-six.vercel.app/
+Pizzaria:  https://pizzaria-zeta-six.vercel.app/ <br>
     Landing Page (a mais antiga que tenho) de uma Pizzaria requisitada por um amigo. - React
 
-Mobile Bank Invoices - (Somente Mobile): https://invoice-manager-mobile-vy.vercel.app/
+Mobile Bank Invoices - (Somente Mobile): https://invoice-manager-mobile-vy.vercel.app/ <br>
     Projeto em versão MO - "Mobile-Only", mini banco com um simples gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real) - React, Nesting Css
 ++
 
