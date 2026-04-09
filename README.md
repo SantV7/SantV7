@@ -6,15 +6,11 @@ sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma o
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
 Meu objetivo é conseguir um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
-Estudando React e SASS
-
-Bibliotecas de Animação - Gsap
-
-UX/UI - estudando
-
+• Estudando React e SASS
+• Bibliotecas de Animação - Gsap
+• UX/UI - estudando
 
 ### 🛠️ Tecnologias
-
 <div style="display: flex; flex-flow: row nowrap; gap:25px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   <img alt="CSS" title="CSS" width="35px"
@@ -25,16 +21,16 @@ UX/UI - estudando
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="VS Code" title="VS Code" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
- 
-  <divstyle="display: flex; flex-flow: column nowrap; gap:5px; margin-top: 5px; margin-bottom: 10px;">
-    <div>HTML</div>
-    <div>CSS</div>
-    <div>JavaScript</div>
-    <div>Gsap</div>
-    <div>React - Estudando</div>
-    <div>Saas - Estudando</div>
-    <div>Git e GitHub</div>
+
+  <div style="display: flex; flex-flow: column nowrap; gap:5px; margin-top: 5px; margin-bottom: 10px;">
+    <div>• HTML</div>
+    <div>• CSS</div>
+    <div>• JavaScript</div>
+    <div>• Gsap</div>
+    <div>• React - Estudando</div>
+    <div>• Saas - Estudando</div>
+    <div>• Git e GitHub</div>
+    <div>UX/UI</div>
   </div>
-
-
+  
 </div>
