@@ -6,10 +6,6 @@ sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma o
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
-• Estudando React e SASS
-• Bibliotecas de Animação - Gsap
-• UX/UI - estudando
-
 ### 🛠️ Tecnologias
 <div style="display: flex; flex-flow: row nowrap; gap:25px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
