@@ -25,5 +25,8 @@ UX/UI - estudando
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="VS Code" title="VS Code" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
+ 
+  HTML CSS JavaScript Gsap React - Estudando Saas - Estudando Git e GitHub
+
 
 </div>
