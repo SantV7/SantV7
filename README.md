@@ -30,7 +30,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
     <div>• React - Estudando</div>
     <div>• Saas - Estudando</div>
     <div>• Git e GitHub</div>
-    <div>• UX/UI</div>
+    <div>• UX / UI</div>
   </div>
   
 </div>
