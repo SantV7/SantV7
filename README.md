@@ -8,16 +8,16 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ### 🎮 Projetos
 Portfólio: https://portfolio-santv7.vercel.app <br>
- <div style="margin-left: 10px"></div> Portfólio pessoal feito por mim - React
+ Portfólio pessoal feito por mim - React
   
 Dashboard: https://dashboard-coins.vercel.app/ <br>
-  <div style="margin-left: 10px"></div>  Consumo de API para conversão de valores e buscade dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React  / API
+ Consumo de API para conversão de valores e buscade dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React  / API
   
 Pizzaria:  https://pizzaria-zeta-six.vercel.app/ <br>
-  <div style="margin-left: 10px"></div>  Landing Page (a mais antiga que tenho) de uma Pizzaria requisitada por um amigo. - React
+ Landing Page (a mais antiga que tenho) de uma Pizzaria requisitada por um amigo. - React
 
 Mobile Bank Invoices - (Somente Mobile): https://invoice-manager-mobile-vy.vercel.app/ <br>
- <div style="margin-left: 10px"></div>   Projeto em versão MO - "Mobile-Only", mini banco com um simples gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real) - React, Nesting Css
+  Projeto em versão MO - "Mobile-Only", mini banco com um simples gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real) - React, Nesting Css
 ++
 
 
