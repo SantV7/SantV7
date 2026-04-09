@@ -6,6 +6,21 @@ sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma o
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
+### 🎮 Projetos
+Portfólio: https://portfolio-santv7.vercel.app
+  Portfólio pessoal feito por mim - React
+  
+Dashboard: https://dashboard-coins.vercel.app/
+    Consumo de API para conversão de valores e buscade dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React  / API
+  
+Pizzaria:  https://pizzaria-zeta-six.vercel.app/
+    Landing Page (a mais antiga que tenho) de uma Pizzaria requisitada por um amigo. - React
+
+Mobile Bank Invoices - (Somente Mobile): https://invoice-manager-mobile-vy.vercel.app/
+    Projeto em versão MO - "Mobile-Only", mini banco com um simples gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real) - React, Nesting Css
+++
+
+
 ### 🛠️ Tecnologias
 <div style="display: flex; flex-flow: row nowrap; gap:25px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
@@ -17,7 +32,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="VS Code" title="VS Code" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-
+ ### ℹ️ More Info
   <div style="display: flex; flex-flow: column nowrap; gap:10px; margin-top: 20px; margin-bottom: 20px;">
     <div>• HTML</div>
     <div>• CSS</div>
