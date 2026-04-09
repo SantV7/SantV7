@@ -26,7 +26,15 @@ UX/UI - estudando
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
  
-  HTML CSS JavaScript Gsap React - Estudando Saas - Estudando Git e GitHub
+  <divstyle="display: flex; flex-flow: column nowrap; gap:5px; margin-top: 5px; margin-bottom: 10px;">
+    <div>HTML</div>
+    <div>CSS</div>
+    <div>JavaScript</div>
+    <div>Gsap</div>
+    <div>React - Estudando</div>
+    <div>Saas - Estudando</div>
+    <div>Git e GitHub</div>
+  </div>
 
 
 </div>
