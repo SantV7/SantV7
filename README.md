@@ -31,6 +31,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
     <div>• Saas - Estudando</div>
     <div>• Git e GitHub</div>
     <div>• UX / UI</div>
+    <div>• Figma</div>
   </div>
   
 </div>
