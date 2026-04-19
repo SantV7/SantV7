@@ -39,7 +39,7 @@ Mobile Bank Invoices - (Somente Mobile): https://invoice-manager-mobile-vy.verce
     <div>• JavaScript</div>
     <div>• Gsap</div>
     <div>• React - Estudando</div>
-    <div>• Saas - Estudando</div>
+    <div>• Sass - Estudando</div>
     <div>• Git e GitHub</div>
     <div>• UX / UI</div>
     <div>• Figma</div>
