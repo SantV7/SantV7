@@ -1,4 +1,4 @@
-## 👋 Vinícius (Sant V7)
+##  Vinícius (Sant V7)
 ### Software Engineer | Front-End Developer 
 ---
 Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
