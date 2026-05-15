@@ -40,7 +40,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Cat
 ### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
 Focado em UX e animações fluidas. Desenvolvido com foco em performance estética.
 > **Tecnologias:** > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> **React** &nbsp; 
-> <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="20"/> **GSAP**
+> 
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
 Aplicação funcional que consome APIs RESTful para dados de cotação e clima em tempo real.
