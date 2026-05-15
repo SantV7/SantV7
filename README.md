@@ -32,7 +32,7 @@ Projeto estruturado com React, aplicando conceitos de componentização e estado
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />   <img alt="Git" title="Git" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="VS Code" title="VS Code" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
- ### ---
+
  ### ℹ️ More Info
   <div style="display: flex; flex-flow: column nowrap; gap:10px; margin-top: 20px; margin-bottom: 20px;">
     <div>• HTML</div>
