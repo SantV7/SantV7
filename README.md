@@ -21,8 +21,7 @@ Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuá
 Implementação de funcionalidades de gerenciamento de faturas e extratos.
 Projeto estruturado com React, aplicando conceitos de componentização e estados.
  Projeto em versão MO - "Mobile-Only", mini banco mobile: gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real)
-
-
+---
 ### 🛠️ Tecnologias
 <div style="display: flex; flex-flow: row nowrap; gap:25px; margin-top: 10px; margin-bottom: 20px;">
   <img alt="HTML" title="HTML" width="35px"
@@ -33,7 +32,7 @@ Projeto estruturado com React, aplicando conceitos de componentização e estado
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />   <img alt="Git" title="Git" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="VS Code" title="VS Code" width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+---
  ### ℹ️ More Info
   <div style="display: flex; flex-flow: column nowrap; gap:10px; margin-top: 20px; margin-bottom: 20px;">
     <div>• HTML</div>
@@ -46,5 +45,4 @@ Projeto estruturado com React, aplicando conceitos de componentização e estado
     <div>• UX / UI</div>
     <div>• Figma</div>
   </div>
-  
 </div>
