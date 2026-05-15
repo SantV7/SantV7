@@ -21,7 +21,8 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/> &nbsp;
+<img src="https://img.icons8.com/ios-filled/50/FFFFFF/ux-design.png" width="40" title="UI/UX"/>
 
 **Ferramentas**
 <br />
@@ -35,26 +36,18 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
 Focado em UX e animações fluidas. Desenvolvido com foco em performance estética.
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
 Aplicação funcional consumindo APIs RESTful para dados em tempo real. Tratamento de estados e renderização dinâmica de dados com foco em performance.
 Consumo de API para conversão de valores e busca de dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React / API
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📱 [Mobile Bank Invoices](https://invoice-manager-mobile-vy.vercel.app/)
 "Mini Banco" focado na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos.
 Projeto em versão MO - "Mobile-Only" (Ainda vou aprender React Native pra apps mobile), mini banco mobile: gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
 Landing Page responsiva de uma pizzaria, focada em conversão e design limpo.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 📊 Estatísticas
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantV7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantV7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
