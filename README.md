@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
+<br>
 
 Desenvolvedor Frontend - Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
