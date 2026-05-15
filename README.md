@@ -35,12 +35,12 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
 Focado em UX e animações fluidas. Desenvolvido com foco em performance estética.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
 Aplicação funcional consumindo APIs RESTful para dados em tempo real. Tratamento de estados e renderização dinâmica de dados com foco em performance.
 Consumo de API para conversão de valores e busca de dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React / API
-> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 [Mobile Bank Invoices](https://invoice-manager-mobile-vy.vercel.app/)
 "Mini Banco" focado na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos.
