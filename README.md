@@ -1,4 +1,4 @@
-## Vinícius (Sant V7) 👋
+## Vinícius (Sant V7) 
 ### Software Engineer | Front-End Developer
 
 <div>
