@@ -1,5 +1,5 @@
 ## Vinícius (Sant V7) 
-### Software Engineer | Front-End Developer
+## Software Engineer | Front-End Developer
 
 <div>
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
