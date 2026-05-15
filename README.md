@@ -6,10 +6,9 @@
 </div>
 
 ---
-
-## 📝 Sobre Mim
-
-Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Católica de Brasília). Atualmente, foco meus estudos no ecossistema Front-End, buscando criar interfaces que não sejam apenas bonitas, mas performáticas e intuitivas.
+Desenvolvedor Frontend - Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
+Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
+Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
 ---
 
