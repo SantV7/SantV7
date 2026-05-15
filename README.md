@@ -34,7 +34,6 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
     </nobr>
   </div>
 </div>
-
 ---
 
 ## 🎮 Projetos em Destaque
@@ -58,9 +57,3 @@ Landing Page responsiva de uma pizzaria, focada em conversão e design limpo.
 > **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-
-## 📊 Estatísticas
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantV7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantV7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
