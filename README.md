@@ -14,24 +14,26 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      **Frontend** <br />
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    <strong>Frontend</strong><br/>
+    <nobr>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
-    </td>
-    <td valign="top" width="50%">
-      **Ferramentas** <br />
+    </nobr>
+  </div>
+  <div style="flex: 1; margin-left: 20px;">
+    <strong>Ferramentas</strong><br/>
+    <nobr>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
-    </td>
-  </tr>
-</table>
+    </nobr>
+  </div>
+</div>
 
 ---
 
