@@ -1,7 +1,5 @@
-# Olá, eu sou o Vinícius (Sant V7) 👋
-
+#Vinícius (Sant V7) 👋
 ### Software Engineer | Front-End Developer
-
 <div>
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -13,12 +11,9 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Católica de Brasília). Atualmente, foco meus estudos no ecossistema Front-End, buscando criar interfaces que não sejam apenas bonitas, mas performáticas e intuitivas.
 
-🚀 **Objetivo:** Estágio ou posição Júnior onde eu possa aplicar lógica de programação, aprimorar meus conhecimentos técnicos e contribuir com soluções reais.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
 **Frontend**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; 
