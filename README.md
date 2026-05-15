@@ -26,7 +26,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Cat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
 
-**Estilização & Animação**
+**Estilização**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" tittle="CSS3"/>
