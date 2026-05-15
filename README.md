@@ -18,8 +18,10 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ## 📊 Atividade no GitHub
 
-![Commits](https://img.shields.io/badge/Commits-Total%20no%20Perfil-blue?style=for-the-badge&logo=github)
+![Gráfico de Contribuições](https://ghchart.rshah.org/tokyonight/SantV7)
+
 <br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 ---
