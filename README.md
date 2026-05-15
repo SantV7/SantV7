@@ -35,7 +35,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
 Focado em UX e animações fluidas. Desenvolvido com foco em performance estética.
-> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
 Aplicação funcional consumindo APIs RESTful para dados em tempo real. Tratamento de estados e renderização dinâmica de dados com foco em performance.
@@ -45,11 +45,11 @@ Consumo de API para conversão de valores e busca de dados climáticos como temp
 ### 📱 [Mobile Bank Invoices](https://invoice-manager-mobile-vy.vercel.app/)
 "Mini Banco" focado na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos.
 Projeto em versão MO - "Mobile-Only" (Ainda vou aprender React Native pra apps mobile), mini banco mobile: gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais)
-> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
 Landing Page responsiva de uma pizzaria, focada em conversão e design limpo.
-> **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
