@@ -6,12 +6,23 @@
   <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5561999029688" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div> <br>
+</div>
+
+<br>
+
 Desenvolvedor Frontend - Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
-<br><br>
+---
+
+## 📊 Atividade no GitHub
+
+![Commits](https://img.shields.io/badge/Commits-Total%20no%20Perfil-blue?style=for-the-badge&logo=github)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -24,7 +35,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
 
-<br>
+---
 
 ## 🎮 Projetos em Destaque
 
