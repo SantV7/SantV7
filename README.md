@@ -19,22 +19,47 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Cat
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React"/> |
-| **Estilização & Animação** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="35" title="Sass"/> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GSAP-Dark.svg" width="35" title="GSAP"/> |
-| **Design & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" title="Figma"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" title="VS Code"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git"/> |
+**Frontend**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+
+**Estilização & Animação**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="40" title="GSAP"/>
+
+**Design & Ferramentas**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
 
 ---
 
 ## 🎮 Projetos em Destaque
 
-| Projeto | Descrição Técnica | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **Portfolio Personalizado** | Focado em UX e animações fluidas. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GSAP-Dark.svg" width="20"/> | [Acessar 🔗](https://portfolio-santv7.vercel.app) |
-| **Dashboard Coins** | Consumo de **APIs RESTful** para cotações e clima em tempo real. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> | [Acessar 🔗](https://dashboard-coins.vercel.app/) |
-| **Mobile Bank Invoices** | Interface "Mobile-Only", aplicando **componentização** e estados. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20"/> | [Acessar 🔗](https://invoice-manager-mobile-vy.vercel.app/) |
-| **Pizzaria Landing Page** | Projeto de interface comercial responsiva. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20"/> | [Acessar 🔗](https://pizzaria-zeta-six.vercel.app/) |
+### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
+Focado em UX e animações fluidas. Desenvolvido com foco em performance estética.
+> **Tecnologias:** > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> **React** &nbsp; 
+> <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="20"/> **GSAP**
+
+### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
+Aplicação funcional que consome APIs RESTful para dados de cotação e clima em tempo real.
+> **Tecnologias:** > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> **React** &nbsp; 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> **JavaScript**
+
+### 📱 [Mobile Bank Invoices](https://invoice-manager-mobile-vy.vercel.app/)
+Interface "Mobile-Only" focada no setor financeiro, aplicando componentização e gestão de estado.
+> **Tecnologias:** > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> **React** &nbsp; 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20"/> **CSS3**
+
+### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
+Landing Page responsiva de uma pizzaria, focada em conversão e design limpo.
+> **Tecnologias:** > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> **React** &nbsp; 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20"/> **HTML5**
 
 ---
 
