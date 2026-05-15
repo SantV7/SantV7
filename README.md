@@ -30,8 +30,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Cat
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="40" title="GSAP"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-**Design & Ferramentas**
+**Ferramentas**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
