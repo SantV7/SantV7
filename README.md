@@ -1,4 +1,4 @@
-#Vinícius (Sant V7) 👋
+##Vinícius (Sant V7) 👋
 ### Software Engineer | Front-End Developer
 <div>
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -37,11 +37,13 @@ Focado em UX e animações fluidas. Desenvolvido com foco em performance estéti
 > **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
-Aplicação funcional que consome APIs RESTful para dados de cotação e clima em tempo real.
+Aplicação funcional consumindo APIs RESTful para dados em tempo real. Tratamento de estados e renderização dinâmica de dados com foco em performance.
+Consumo de API para conversão de valores e buscade dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real. - React / API
 > **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 [Mobile Bank Invoices](https://invoice-manager-mobile-vy.vercel.app/)
-Interface "Mobile-Only" focada no setor financeiro, aplicando componentização e gestão de estado.
+"Mini Banco" focado na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos.
+Projeto em versão MO - "Mobile-Only" ( Ainda vou aprender React Native pra apps mobile), mini banco mobile: gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias, atualizando seus valores tanto de saque, quanto de transferência. (Fins de estudo - não faz transações e saques de forma real)
 > **Tecnologias:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
