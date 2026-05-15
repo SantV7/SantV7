@@ -18,7 +18,6 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
