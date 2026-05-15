@@ -1,6 +1,6 @@
 ##  Vinícius (Sant V7)
 ### Software Engineer | Front-End Developer 
-Contato: <div><a href="https://linkedin.com/in/viniciussant07">Linkedin</a></div>
+Contato: <div><a target="_blank" href="https://linkedin.com/in/viniciussant07">Linkedin</a></div>
 ---
 Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
