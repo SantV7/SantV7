@@ -30,7 +30,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UCB** (Universidade Cat
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp; 
 GSAP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width:40 tittle='CSS3'/>
 
 **Ferramentas**
 <br>
