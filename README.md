@@ -14,9 +14,7 @@ Desenvolvedor Frontend - Sempre buscando aprender novas coisas e melhorar minhas
 Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
----
-
-## 📊 Atividade no GitHub
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
