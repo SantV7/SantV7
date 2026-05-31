@@ -15,9 +15,10 @@ Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces
 🎓 Graduando: Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
 
 🎯 Objetivo: Contribuir em times de tecnologia como Estagiário ou Desenvolvedor Júnior, focando em escalabilidade e na lógica por trás da implementação.
-<br>
 
- Stack e Foco Técnico
+---
+
+### 🛠️ Stack e Foco Técnico
 
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
 Versionamento: Controle de fluxo e colaboração por Git/GitHub
