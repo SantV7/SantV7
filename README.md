@@ -11,6 +11,7 @@
 <br>
 
 Software Enginneer | Frontend Developer - Desenvolvimento de interfaces funcionais e de performance e na compreensão da arquitetura de software. Atualmente, busco aplicar fundamentos de lógica desenvolvimento em oportunidades de Estágio ou Desenvolvedor Júnior.
+
 Graduando: Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília. Previsão de conclusão 2028
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
