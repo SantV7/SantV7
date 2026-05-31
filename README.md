@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<br>
+<br />
 
 Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React, TypeScript e GSAP.
 
@@ -24,7 +24,7 @@ Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
 Versionamento: Controle de fluxo e colaboração por Git/GitHub
 Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, Figma Basics
-<br>
+<br />
 
 
 
