@@ -24,7 +24,8 @@ Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
 Versionamento: Controle de fluxo e colaboração por Git/GitHub
 Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, Figma Basics
-<br />
+<br >
+<br >
 
 
 
