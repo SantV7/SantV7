@@ -28,8 +28,9 @@ Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, 
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 
 ## 🛠️ Tecnologias e Ferramentas
