@@ -18,6 +18,7 @@ Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces
 
 ---
 
+
 ### 🛠️ Stack e Foco Técnico
 
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
@@ -25,7 +26,10 @@ Versionamento: Controle de fluxo e colaboração por Git/GitHub
 Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, Figma Basics
 <br>
 
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
 
 
 ## 🛠️ Tecnologias e Ferramentas
