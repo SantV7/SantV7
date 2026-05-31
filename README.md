@@ -10,7 +10,7 @@
 
 <br />
 
-**Software Engineer | Frontend Developer** - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React, TypeScript e GSAP.
+**Software Engineer | Frontend Developer** - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React.js, TypeScript e GSAP.
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
 🎯 **Objetivo:** Contribuir em times de tecnologia como Estagiário ou Desenvolvedor Júnior, focando em escalabilidade e na lógica por trás da implementação.
@@ -57,7 +57,7 @@
 ## 🎮 Projetos em Destaque
 
 ### 💻 [Portfolio](https://portfolio-santv7.vercel.app)
-Desenvolvido com React e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
+Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 <br >
@@ -73,7 +73,7 @@ Aplicação funcional consumindo APIs RESTful para dados em tempo real. Implemen
 ---
 
 ### 📱 [Mobile Bank Invoices - (Somente Mobile)](https://invoice-manager-mobile-vy.vercel.app/)
-Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos. Projeto estruturado com React, aplicando conceitos de componentização e estados. Versão "Mobile-Only": gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais).
+Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos. Projeto estruturado com React.js, aplicando conceitos de componentização e estados. Versão "Mobile-Only": gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais).
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br >
