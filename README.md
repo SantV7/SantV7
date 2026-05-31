@@ -16,7 +16,7 @@ Graduando: Análise e Desenvolvimento de Sistemas - Universidade Católica de Br
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
 <br>
-## 🛠️Stack e Foco Técnico
+## Stack e Foco Técnico
 
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScrip e React.js.
 Versionamento: Controle de fluxo e colaboração via Git/GitHub
