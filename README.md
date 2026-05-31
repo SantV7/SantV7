@@ -10,8 +10,8 @@
 
 <br>
 
-Desenvolvedor Frontend - Sempre buscando aprender novas coisas e melhorar minhas habilidades. Busco uma oportunidade de trabalhar com o que gosto e me aprimorar. Como estagiário ou junior.
-Cursando Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília.
+Software Enginneer | Frontend Developer - Desenvolvimento de interfaces funcionais e de performance e na compreensão da arquitetura de software. Atualmente, busco aplicar fundamentos de lógica desenvolvimento em oportunidades de Estágio ou Desenvolvedor Júnior.
+Graduando: Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília. Previsão de conclusão 2028
 Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
 
 <br>
@@ -34,7 +34,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 ## 🎮 Projetos em Destaque
 
-### 💻 [Portfolio Personalizado](https://portfolio-santv7.vercel.app)
+### 💻 [Portfolio](https://portfolio-santv7.vercel.app)
 Desenvolvido com React e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
