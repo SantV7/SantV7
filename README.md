@@ -48,13 +48,19 @@ Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, 
 Desenvolvido com React e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
+---
+
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
 Aplicação funcional consumindo APIs RESTful para dados em tempo real. Implementação de tratamento de estados complexos e renderização dinâmica com foco em performance e precisão de dados.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### 📱 [Mobile Bank Invoices - (Somente Mobile)](https://invoice-manager-mobile-vy.vercel.app/)
 Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos. Projeto estruturado com React, aplicando conceitos de componentização e estados. Versão "Mobile-Only": gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais).
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
 Landing Page desenvolvida com foco em estruturação semântica e responsividade, aplicando uso de ScrollReveal e UI, feito para um cliente para conversão.
