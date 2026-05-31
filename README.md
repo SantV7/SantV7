@@ -16,6 +16,7 @@ Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces
 
 🎯 Objetivo: Contribuir em times de tecnologia como Estagiário ou Desenvolvedor Júnior, focando em escalabilidade e na lógica por trás da implementação.
 <br>
+
  Stack e Foco Técnico
 
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
@@ -32,7 +33,7 @@ Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/typescript-original.svg" width="40" title="JavaScript"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
@@ -47,7 +48,7 @@ Desenvolvido com React e GSAP, demonstrando habilidades em animações fluidas e
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
-Aplicação funcional consumindo APIs RESTful para dados em tempo real. Tratamento de estados e renderização dinâmica de dados com foco em performance. Consumo de API para conversão de valores e busca de dados climáticos como temperatura e umidade, pegando o clima e os valores de cotação atualizados em tempo real.
+Aplicação funcional consumindo APIs RESTful para dados em tempo real. Implementação de tratamento de estados complexos e renderização dinâmica com foco em performance e precisão de dados.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📱 [Mobile Bank Invoices - (Somente Mobile)](https://invoice-manager-mobile-vy.vercel.app/)
@@ -55,5 +56,5 @@ Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuá
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
-Landing Page simples de uma Pizzaria requisitada por um amigo.
+Landing Page desenvolvida com foco em estruturação semântica e responsividade, aplicando uso de ScrollReveal e UI, feito para um cliente para conversão.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
