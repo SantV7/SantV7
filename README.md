@@ -32,7 +32,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true&v=2" alt="Streak Stats" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <br >
