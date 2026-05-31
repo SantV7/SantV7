@@ -17,6 +17,7 @@ Meu objetivo é um estágio e entender a lógica por trás de cada linha, e apri
 
 <br>
 ## 🛠️Stack e Foco Técnico
+
 Frontend: Desenvolvimento com Html, Css, Scss, JavaScrip e React.js.
 Versionamento: Controle de fluxo e colaboração via Git/GitHub
 <br>
