@@ -10,15 +10,15 @@
 
 <br>
 
-Software Enginneer | Frontend Developer - Desenvolvimento de interfaces funcionais e de performance e na compreensão da arquitetura de software. Atualmente, busco aplicar fundamentos de lógica desenvolvimento em oportunidades de Estágio ou Desenvolvedor Júnior.
+Software Engineer | Frontend Developer - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React, TypeScript e GSAP.
 
-Graduando: Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília. Previsão de conclusão 2028
-Meu objetivo é um estágio e entender a lógica por trás de cada linha, e aprimorar meu conhecimentos e descobrir coisas novas.
+🎓 Graduando: Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
 
+🎯 Objetivo: Contribuir em times de tecnologia como Estagiário ou Desenvolvedor Júnior, focando em escalabilidade e na lógica por trás da implementação.
 <br>
  Stack e Foco Técnico
 
-Frontend: Desenvolvimento com Html, Css, Scss, JavaScript e React.js.
+Frontend: Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
 Versionamento: Controle de fluxo e colaboração por Git/GitHub
 Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, Figma Basics
 <br>
@@ -32,6 +32,7 @@ Técnicas visuais: UI/UX Design View, GSAP animation, Scroll Reveal techniques, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/typescript-original.svg" width="40" title="JavaScript"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
