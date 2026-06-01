@@ -21,12 +21,6 @@
 <br >
 
 ### 🛠️ Stack e Foco Técnico
-
-**Frontend:** Desenvolvimento com Html, Css, Scss, JavaScript, TypeScript e  React.js.
-**Versionamento:** Controle de fluxo e colaboração por Git/GitHub
-**Técnicas Visuais:** UI/UX Design, GSAP Animation, Scroll Reveal e Figma.
-<br >
-
 <br >
 
 <br >
