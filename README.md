@@ -10,7 +10,7 @@
 
 <br />
 
-**Software Engineer | Frontend Developer** - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React.js, TypeScript e GSAP.
+**Software Engineer | Frontend Developer** - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React.js, TypeScript e GSAP. Experiência em metodologias ágeis (Scrum e Kanban) em trabalhos colaborativos.
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
 
