@@ -20,7 +20,6 @@
 
 <br >
 
-### 🛠️ Stack e Foco Técnico
 <br >
 
 <br >
