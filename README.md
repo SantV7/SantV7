@@ -12,9 +12,11 @@
 
 **Software Engineer | Frontend Developer** - Focado no desenvolvimento de interfaces de alta performance e na compreensão da arquitetura de software. Atualmente, aplico fundamentos de engenharia e lógica em projetos utilizando React.js, TypeScript e GSAP. Experiência em metodologias ágeis (Scrum e Kanban) em trabalhos colaborativos.
 
+Aplicação em projetos com React.jsx e React.tsx, visando enquadramento de UI e UX aos usuários, priorizando a produtividade com Tailwind css e Scss(Pré-processador CSS). Experiência com Figma e prototipação. Versionamento com Git, GitHub e experiência com Vercel. Visão de metodologias ágeis:  Scrum e Kanban.
+
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
 
-🎯 **Objetivo:** Contribuir em times de tecnologia como Estagiário, focando em escalabilidade e na lógica por trás da implementação, sempre pensando no usuário.
+🎯 **Objetivo:** Contribuir em times de tecnologia como Estagiário, focando em escalabilidade e na lógica, buscando sempre minha melhoria em desenvolvimento e aplicações performáticas.
 
 ---
 
