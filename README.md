@@ -60,7 +60,7 @@ Aplicação funcional consumindo APIs RESTful para dados em tempo real. Implemen
 
 ---
 
-### 📱 [Mobile Bank Invoices - (Somente Mobile)](https://invoice-manager-mobile-vy.vercel.app/)
+### 📱 [MO Bank - (Mobile Only)](https://invoice-manager-mobile-vy.vercel.app/)
 Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos. Projeto estruturado com React.js, aplicando conceitos de componentização e estados. Versão "Mobile-Only": gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais).
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
