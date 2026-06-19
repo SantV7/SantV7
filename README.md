@@ -10,11 +10,9 @@
 
 <br />
 
-**Software Engineer | Frontend Developer** — Focado no desenvolvimento de interfaces de alta performance e na arquitetura de software escalável. Atualmente, aplico fundamentos de engenharia e lógica de programação em projetos robustos utilizando React, TypeScript e GSAP.
-
-Minha atuação une design e código: transformo protótipos do Figma em aplicações funcionais, priorizando a segurança de tipos com TypeScript e a produtividade com Tailwind CSS e SCSS. Tenho experiência em versionamento com Git/GitHub e deploy contínuo via Vercel.
-
-Possuo visão de processos em metodologias ágeis (Scrum e Kanban), garantindo entregas de projetos e tasks organizadas e colaboração eficiente em equipe.
+**Desenvolvedor Front-End em formação, com cerca de 2 anos de experiência prática no desenvolvimento de aplicações web utilizando React, TypeScript, JavaScript, HTML5 e CSS3. Focado na criação de interfaces modernas, responsivas e de alta performance, aplicando boas práticas de desenvolvimento e Clean Code.
+Tenho experiência na construção de layouts escaláveis, integração com APIs REST, animações avançadas com GSAP e prototipação de interfaces no Figma. Utilizo TypeScript para garantir maior segurança e manutenibilidade do código, além de Tailwind CSS e Sass (SCSS) para acelerar o desenvolvimento de interfaces consistentes.
+Possuo conhecimentos em SQL e PostgreSQL, versionamento com Git/GitHub, deploy com Vercel e metodologias ágeis como Scrum e Kanban. Estou em constante evolução, buscando aprimorar minhas habilidades e contribuir para projetos que entreguem experiências digitais eficientes e intuitivas.
 
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
