@@ -48,7 +48,7 @@ Possuo conhecimentos em SQL e PostgreSQL, versionamento com Git/GitHub, deploy c
 
 ## 🎮 Projetos em Destaque
 
-### 💻 [Portfolio](https://portfolio-santv7.vercel.app](https://sant-portfolio.vercel.app/)
+### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
 Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
