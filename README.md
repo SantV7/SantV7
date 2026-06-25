@@ -10,9 +10,7 @@
 
 <br />
 
-**Desenvolvedor Front-End em formação, com cerca de 2 anos de experiência prática no desenvolvimento de aplicações web utilizando React, TypeScript, JavaScript, HTML5 e CSS3. Focado na criação de interfaces modernas, responsivas e de alta performance, aplicando boas práticas de desenvolvimento e Clean Code.
-Tenho experiência na construção de layouts escaláveis, integração com APIs REST, animações avançadas com GSAP e prototipação de interfaces no Figma. Utilizo TypeScript para garantir maior segurança e manutenibilidade do código, além de Tailwind CSS e Sass (SCSS) para acelerar o desenvolvimento de interfaces consistentes.
-Possuo conhecimentos em SQL e PostgreSQL, versionamento com Git/GitHub, deploy com Vercel e metodologias ágeis como Scrum e Kanban. Estou em constante evolução, buscando aprimorar minhas habilidades e contribuir para projetos que entreguem experiências digitais eficientes e intuitivas.
+**Desenvolvedor Front-End e estudante de Análise e Desenvolvimento de Sistemas, estudante de desenvolvimento de aplicações web robustas utilizando React.js, JavaScript (ES6+), TypeScript, HTML5 e CSS3 (Sass/SCSS). Minha atuação é focada na engenharia de performance e na criação de layouts modernos, totalmente responsivas e escaláveis com Tailwind CSS, integrando conceitos de Clean Code e componentização. Faço uso de IA aplicada de forma estratégica para acelerar a construção de layouts e otimizar a refatoração de lógicas complexas sem perder segurança ou gerar erros, aumentando a eficiência na entrega. Possuo experiência prática no consumo de APIs REST, gerenciamento de estado global e animações fluidas com GSAP e Lenis. Além disso, possuo conhecimentos básicos em bancos de dados SQL e PostgreSQL, domínio de ferramentas de prototipação como Figma (UI/UX), e fluxo de trabalho baseado em controle de versão com Git/GitHub, deploy na Vercel e metodologias ágeis (Scrum e Kanban). Busco uma oportunidade de estágio para contribuir ativamente com soluções técnicas e gerar valor imediato em produtos reais. 
 
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
