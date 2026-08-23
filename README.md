@@ -1,5 +1,8 @@
 ## Sou o Vinícius
 
+### 🔗 PORTFÓLIO:
+### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
+
 
 <div>
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -17,7 +20,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 🎯 **Objetivo:** Contribuir como desenvolvedor de software como Estagiário ou Junior
 
-**Estudando agora:** Python, TypeScript e Node.js
+**Estudando agora: Python, TypeScript e Node.js**
 ---
 <br >
 
@@ -25,6 +28,15 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
+<br >
+
+**👾Stack Front-Dnd: TypeScript, React, Tailwind CSS, JavaScript, Sass, Figma**
+<br >
+
+**👾Stack Back-End: Node.JS(Express & TypeScript) e Python**
+<br >
+
+**👾Banco de dados: PostgreSQL**
 <br >
 
 
@@ -42,8 +54,3 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
 
 <br>
-
-### 🔗 PORTFÓLIO:
-### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
-Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
