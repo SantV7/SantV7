@@ -21,10 +21,10 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 🎯 **Objetivo:** Contribuir como desenvolvedor de software como Estagiário ou Junior
 
-**Estudando agora: Python, TypeScript e Node.js**
+⏱️**Estudando agora: Python, TypeScript e Node.js**
 
 <br >
----
+
 <br >
 
 **👾Stack Front-Dnd: TypeScript, React, Tailwind CSS, JavaScript, Sass, Figma**
