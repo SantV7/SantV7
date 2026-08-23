@@ -2,7 +2,15 @@
 
 ### 🔗 PORTFÓLIO: 💻 [Portfolio](https://sant-portfolio.vercel.app/)
 
-<br />
+<br >
+
+<div>
+  <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+<br >
 
 **Engenheiro de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de interfaces e criação de APIs. Experiência com construção e refatoração com boas práticas de clean code.**
@@ -15,12 +23,6 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 ---
 <br >
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<br >
-
 **👾Stack Front-Dnd: TypeScript, React, Tailwind CSS, JavaScript, Sass, Figma**
 <br >
 
@@ -30,6 +32,11 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 **👾Banco de dados: PostgreSQL**
 <br >
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<br >
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -45,9 +52,3 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
 <br>
 
-<div>
-  <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5561999029688" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
