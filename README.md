@@ -1,4 +1,4 @@
-## Sou o Vinícius
+## 👾 Sou o Vinícius
 
 ### 🔗 [Portfolio](https://sant-portfolio.vercel.app/)
 
