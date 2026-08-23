@@ -42,6 +42,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
 
 <br>
+
 ## 🔗 PORTFÓLIO:
 ### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
 Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
