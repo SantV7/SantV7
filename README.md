@@ -1,6 +1,6 @@
 ## Sou o Vinícius
 
-### 🔗 PORTFÓLIO: 💻 [Portfolio](https://sant-portfolio.vercel.app/)
+### 🔗 [Portfolio](https://sant-portfolio.vercel.app/)
 
 <br >
 
