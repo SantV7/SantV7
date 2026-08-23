@@ -1,5 +1,5 @@
-## Vinícius (Sant V7) 
-## Software Engineer | Front-End Developer
+## Sou o Vinícius
+
 
 <div>
   <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -10,12 +10,12 @@
 
 <br />
 
-**Desenvolvedor Front-End e estudante de Análise e Desenvolvimento de Sistemas, estudante de desenvolvimento de aplicações web robustas utilizando React.js, JavaScript (ES6+), TypeScript, HTML5 e CSS3 (Sass/SCSS). Minha atuação é focada na engenharia de performance e na criação de layouts modernos, totalmente responsivas e escaláveis com Tailwind CSS, integrando conceitos de Clean Code e componentização. Faço uso de IA aplicada de forma estratégica para acelerar a construção de layouts e otimizar a refatoração de lógicas complexas sem perder segurança ou gerar erros, aumentando a eficiência na entrega. Possuo experiência prática no consumo de APIs REST, gerenciamento de estado global e animações fluidas com GSAP e Lenis. Além disso, possuo conhecimentos básicos em bancos de dados SQL e PostgreSQL, domínio de ferramentas de prototipação como Figma (UI/UX), e fluxo de trabalho baseado em controle de versão com Git/GitHub, deploy na Vercel e metodologias ágeis (Scrum e Kanban). Busco uma oportunidade de estágio para contribuir ativamente com soluções técnicas e gerar valor imediato em produtos reais. 
+**Engenheiro de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack
+Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de interfaces e criação de APIs. Experiência com construção e refatoração com boas práticas de clean code.
 
+🎓 **Graduando:** Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília — Previsão de conclusão 06/2028
 
-🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (UCB) — Previsão de conclusão 2028.
-
-🎯 **Objetivo:** Contribuir em times de tecnologia como Estagiário, focando em escalabilidade e na lógica, buscando sempre minha melhoria em desenvolvimento e aplicações performáticas.
+🎯 **Objetivo:** Contribuir como desenvolvedor de software como Estagiário ou Junior
 
 ---
 
@@ -41,30 +41,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
 
-
 <br>
-
-## 🎮 Projetos em Destaque
-
+## 🔗 PORTFÓLIO:
 ### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
 Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-<br >
-
----
-
-### 📊 [Dashboard Coins](https://dashboard-coins.vercel.app/)
-Aplicação funcional consumindo APIs RESTful para dados em tempo real. Implementação de tratamento de estados complexos e renderização dinâmica com foco em performance e precisão de dados.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<br > 
-
----
-
-### 📱 [MO Bank - (Mobile Only)](https://invoice-manager-mobile-vy.vercel.app/)
-Desenvolvimento de uma interface de "Mini Banco" focada na experiência do usuário do setor financeiro. Implementação de funcionalidades de gerenciamento de faturas e extratos. Projeto estruturado com React.js, aplicando conceitos de componentização e estados. Versão "Mobile-Only": gerenciamento de faturas, alterações de dados de perfil, transações de saques e adições monetárias. (Fins de estudo - não faz transações reais).
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br >
 
