@@ -30,7 +30,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 <br >
 
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
@@ -45,16 +45,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 <br>
 
-## 🔗 PORTFÓLIO:
+### 🔗 PORTFÓLIO:
 ### 💻 [Portfolio](https://sant-portfolio.vercel.app/)
 Desenvolvido com React.js e GSAP, demonstrando habilidades em animações fluidas e interfaces intuitivas.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-
-<br >
-
----
-
-### 🍕 [Pizzaria Landing Page](https://pizzaria-zeta-six.vercel.app/)
-Landing Page desenvolvida com foco em estruturação semântica e responsividade, aplicando uso de ScrollReveal e UI, feito para um cliente para conversão.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
