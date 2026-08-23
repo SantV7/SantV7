@@ -12,7 +12,8 @@
 
 <br >
 
-**Engenheiro de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack
+**Engenheiro de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack.
+<br >
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de interfaces e criação de APIs. Experiência com construção e refatoração com boas práticas de clean code.**
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília — Previsão de conclusão 06/2028
