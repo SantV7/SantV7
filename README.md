@@ -30,7 +30,6 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 **• Vivência em UX/UX Design: Figma (prototipação, Componentes e UX Writing)**
 
-<br >
 -----------------------------------------------------------------------------------------------
 <br >
 
