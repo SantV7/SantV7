@@ -16,6 +16,7 @@
 <br >
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de interfaces, desenvolvimento de funcionalidades e criação de APIs. Experiência com construção e refatoração com boas práticas de clean code.**
 <br >
+--------------------------------------------------------------------------------------------
 
 **• Desenvolvimento de APIs utilizando Node.JS + TypeScript**
 
@@ -23,13 +24,14 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 **• Experiência em conjunto com Design, Front-end e Back-end para construções de produtos de valor.**
 
-**Persistência de dados com banco de dados e ORMs, usando PostgreSQL, MySQL, Pisma e Sequelize**
+**• Persistência de dados com banco de dados e ORMs, usando PostgreSQL, MySQL, Pisma e Sequelize**
 
 **• Vivência em UX/UX Design: Figma (prototipação, Componentes e UX Writing)**
+-----------------------------------------------------------------------------------------------
 
 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília — Previsão de conclusão 06/2028
 
-🎯 **Objetivo:** Contribuir como desenvolvedor de software como Estagiário ou Junior
+🎯 **Objetivo:** Atualmente desejo contribuir como Desenvolvedor de Software Fullstack, como Estagiário, busco consolidar a base e aprender mais sobre Software Engineering 
 
 ⏱️**Estudando agora: Python, TypeScript e Node.js**
 
@@ -43,7 +45,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 **👾Stack Back-End: Node.JS(Express & TypeScript) e Python**
 <br >
 
-**👾Banco de dados: PostgreSQL**
+**👾Banco de dados & ORMs: PostgreSQL & MySQL | Prisma & Sequelize**
 <br >
 
 <p align="left">
