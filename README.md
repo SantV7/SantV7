@@ -14,7 +14,11 @@
 
 **Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack.
 <br >
-Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de produtos digitais de valor e qualidade, manutenção de bugs e desenvolvimento e integração de APIs, sempre seguindo boas práticas de clean code. Utilizo IA de maneira inteligente para produtividade desenvolvimento e reafatoração com curadoria humana para uma decisão correta, com base em meu conhecimento prévio em RAG**
+Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo no desenvolvimento de softwares, manutenção de bugs, desenvolvimento e integração de APIs, seguindo boas práticas de clean code e qualidade.**
+
+**Utilizo IA (Copilot, Claude Code e Gemini) de maneira inteligente para produtividade no desenvolvimento e refatoração com análise crítica humana para uma decisão preventiva e validada.**
+
+**Tenho experiência prática com metodologias ágeis (Scrum e Kanban), com vivência de ferramentas como Jira, Trello e Notion.**
 
 --------------------------------------------------------------------------------------------
 
@@ -22,11 +26,11 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 **• Desenvolvimento de APIs utilizando Node.JS + TypeScript**
 
-**• Vivência em criação de interface otimizada, intuitivas e performáticas utilizando React.js**
+**• Vivência em criação de interface intuitivas e performáticas utilizando React.js**
 
 **• Experiência em conjunto com Design, Front-end e Back-end para construções de produtos de valor.**
 
-**• Persistência de dados com banco de dados e ORMs, usando PostgreSQL, MySQL, Pisma e Sequelize**
+**• Persistência com banco de dados e ORMs, usando PostgreSQL, MySQL, Pisma e Sequelize**
 
 **• Vivência em UX/UX Design: Figma (prototipação, Componentes e UX Writing)**
 
@@ -37,7 +41,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuan
 
 <br >
 
-🎯 **Objetivo:** Atualmente desejo contribuir como Desenvolvedor de Software Fullstack, como Estagiário, busco consolidar a base e aprender mais sobre Software Engineering 
+🎯 **Objetivo: Atualmente desejo contribuir como Desenvolvedor de Software Fullstack, como Estagiário, busco consolidar a base e aprender mais sobre Software Engineering**
 
 <br >
 
