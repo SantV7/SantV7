@@ -45,7 +45,7 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo 
 
 <br >
 
-⏱️**Estudando agora: Python, TypeScript e Node.js**
+⏱️**Estudando agora: Python, Cloud e Node.js**
 
 <br >
 
