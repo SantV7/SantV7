@@ -4,14 +4,6 @@
 
 <br >
 
-<div>
-  <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
-<br >
-
 **Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack.
 <br >
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo no desenvolvimento de softwares, manutenção de bugs, desenvolvimento e integração de APIs, seguindo boas práticas de clean code e qualidade.**
@@ -79,4 +71,12 @@ Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
 <br>
+
+### Contato
+
+<div>
+  <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
