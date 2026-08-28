@@ -16,7 +16,6 @@
 <br >
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuando em construção de produtos digitais de valor e qualidade, manutenção de bugs e desenvolvimento e integração de APIs, sempre seguindo boas práticas de clean code. Utilizo IA de maneira inteligente para produtividade desenvolvimento e reafatoração com curadoria humana para uma decisão correta, com base em meu conhecimento prévio em RAG**
 
-<br >
 --------------------------------------------------------------------------------------------
 
 <br >
