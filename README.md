@@ -8,8 +8,6 @@
 <br >
 Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo no desenvolvimento de softwares, manutenção de bugs, desenvolvimento e integração de APIs, seguindo boas práticas de clean code e qualidade.**
 
-**Utilizo IA (Copilot, Claude Code e Gemini) de maneira inteligente para produtividade no desenvolvimento e refatoração com análise crítica humana para uma decisão preventiva e validada.**
-
 **Tenho experiência prática com metodologias ágeis (Scrum e Kanban), com vivência de ferramentas como Jira, Trello e Notion.**
 
 --------------------------------------------------------------------------------------------
