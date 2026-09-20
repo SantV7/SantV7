@@ -17,9 +17,6 @@ Previsão de conclusão: **06/2028**
 * TypeScript
 * JavaScript
 * Tailwind CSS
-* Sass/SCSS
-* HTML5
-* CSS3
 
 **Backend**
 
@@ -29,23 +26,17 @@ Previsão de conclusão: **06/2028**
 * Python
 * APIs RESTful
 
-**Banco de dados**
+**Banco de dados e ORM**
 
 * PostgreSQL
-* MySQL
 * Prisma
-* Sequelize
 * SQL
 
 **Ferramentas**
 
 * Git & GitHub
 * Figma
-* Vercel
-* VS Code
-* Jira
-* Trello
-* Notion
+
 
 ### 💻 Experiência prática
 
