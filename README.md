@@ -13,44 +13,27 @@ Previsão de conclusão: **06/2028**
 
 **Frontend**
 
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Sass/SCSS
-* HTML5
-* CSS3
+* React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS
 
 **Backend**
 
-* Node.js
-* Express
-* TypeScript
-* Python
-* APIs RESTful
+* Node.js | Express | TypeScript | APIs RESTful
+
 
 **Banco de dados**
 
-* PostgreSQL
-* MySQL
-* Prisma
-* Sequelize
-* SQL
+* PostgreSQL | Prisma | SQL
+* 
 
 **Ferramentas**
 
-* Git & GitHub
-* Figma
-* Vercel
-* VS Code
-* Jira
-* Trello
-* Notion
+* Git & GitHub | Vercel | Figma | Notion 
 
-### 💻 Experiência prática
+
+### 💻 Experiência em
 
 * Desenvolvimento de **APIs RESTful** com Node.js, Express e TypeScript.
-* Desenvolvimento de interfaces web com **React e TypeScript**, com foco em responsividade, usabilidade e performance.
+* Desenvolvimento de interfaces com **React e TypeScript**, com foco em responsividade, usabilidade e performance.
 * Integração entre aplicações Front-end, APIs e bancos de dados relacionais.
 * Modelagem e persistência de dados utilizando **PostgreSQL e Prisma**.
 * Aplicação de boas práticas de desenvolvimento, organização de código e Clean Code.
