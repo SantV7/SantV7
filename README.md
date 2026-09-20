@@ -11,25 +11,41 @@ Previsão de conclusão: **06/2028**
 
 ### 🚀 Principais conhecimentos
 
-**Frontend    |   Backend**
+**Frontend**
 
-* React           Node.js
-* TypeScript      Express
-* JavaScript      APIs RESTful
-* Tailwind CSS    JavaScript
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Sass/SCSS
+* HTML5
+* CSS3
 
+**Backend**
 
-**Banco de dados e ORM**
+* Node.js
+* Express
+* TypeScript
+* Python
+* APIs RESTful
+
+**Banco de dados**
 
 * PostgreSQL
+* MySQL
 * Prisma
+* Sequelize
 * SQL
 
 **Ferramentas**
 
 * Git & GitHub
 * Figma
-
+* Vercel
+* VS Code
+* Jira
+* Trello
+* Notion
 
 ### 💻 Experiência prática
 
