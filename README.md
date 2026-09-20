@@ -9,6 +9,8 @@ Previsão de conclusão: **06/2028**
 
 🎯 **Objetivo:** oportunidade de **Estágio em Desenvolvimento de Software / Full Stack**, buscando contribuir em projetos reais e continuar evoluindo em Engenharia de Software.
 
+<br>
+
 ### 🚀 Principais conhecimentos
 
 **Frontend**
@@ -29,6 +31,7 @@ Previsão de conclusão: **06/2028**
 
 * Git & GitHub | Vercel | Figma | Notion 
 
+<br>
 
 ### 💻 Experiência em
 
@@ -51,6 +54,8 @@ Aplicação desenvolvida com **React e TypeScript**, com foco em UI/UX, responsi
 ### 📚 Atualmente estudando
 
 **Python • Cloud • Node.js • Engenharia de Software**
+
+<br>
 
 ### 🛠️ Tecnologias
 
