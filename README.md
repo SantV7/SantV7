@@ -1,90 +1,108 @@
-## 👾 Sou o Vinícius
+## 👾 Olá, eu sou o Vinícius
 
-### 🔗 [Portfolio](https://sant-portfolio.vercel.app/)
+**Desenvolvedor de Software em formação e estudante de Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Front-end e Full Stack**.
 
-<br >
+Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Tenho experiência prática no desenvolvimento de aplicações web, APIs RESTful e integração com bancos de dados, buscando aplicar **Clean Code, organização de código, performance e boas práticas de desenvolvimento**.
 
-**Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas com foco em Full-Stack.
-<br >
-Minha Stack principal é <strong>React.js + TypeScript + Node.JS</strong>. Atuo no desenvolvimento de softwares, manutenção de bugs, desenvolvimento e integração de APIs, seguindo boas práticas de clean code e qualidade.**
+🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**
+Previsão de conclusão: **06/2028**
 
-**Tenho experiência prática com metodologias ágeis (Scrum e Kanban), com vivência de ferramentas como Jira, Trello e Notion.**
+🎯 **Objetivo:** oportunidade de **Estágio em Desenvolvimento de Software / Full Stack**, buscando contribuir em projetos reais e continuar evoluindo em Engenharia de Software.
 
---------------------------------------------------------------------------------------------
+### 🚀 Principais conhecimentos
 
-<br >
+**Frontend**
 
-**• Desenvolvimento de APIs utilizando Node.JS + TypeScript**
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Sass/SCSS
+* HTML5
+* CSS3
 
-**• Vivência em criação de interface intuitivas e performáticas utilizando React.js**
+**Backend**
 
-**• Experiência em conjunto com Design, Front-end e Back-end para construções de produtos de valor.**
+* Node.js
+* Express
+* TypeScript
+* Python
+* APIs RESTful
 
-**• Persistência com banco de dados e ORMs, usando PostgreSQL, MySQL, Pisma e Sequelize**
+**Banco de dados**
 
-**• Vivência em UX/UX Design: Figma (prototipação, Componentes e UX Writing)**
+* PostgreSQL
+* MySQL
+* Prisma
+* Sequelize
+* SQL
 
------------------------------------------------------------------------------------------------
-<br >
+**Ferramentas**
 
-🎓 **Graduando:** Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília — Previsão de conclusão 06/2028
+* Git & GitHub
+* Figma
+* Vercel
+* VS Code
+* Jira
+* Trello
+* Notion
 
-<br >
+### 💻 Experiência prática
 
-🎯 **Objetivo: Atualmente desejo contribuir como Desenvolvedor de Software Fullstack, como Estagiário, busco consolidar a base e aprender mais sobre Software Engineering**
+* Desenvolvimento de **APIs RESTful** com Node.js, Express e TypeScript.
+* Desenvolvimento de interfaces web com **React e TypeScript**, com foco em responsividade, usabilidade e performance.
+* Integração entre aplicações Front-end, APIs e bancos de dados relacionais.
+* Modelagem e persistência de dados utilizando **PostgreSQL e Prisma**.
+* Aplicação de boas práticas de desenvolvimento, organização de código e Clean Code.
+* Experiência com **Scrum e Kanban** e ferramentas como Jira, Trello e Notion.
+* Desenvolvimento de interfaces e protótipos utilizando **Figma**, incluindo componentes e UX Writing.
 
-<br >
+### 📌 Projetos em destaque
 
-⏱️**Estudando agora: Python, Cloud e Node.js**
+**Financial API**
+API RESTful desenvolvida com **Node.js, TypeScript, Express, PostgreSQL e Prisma**, com autenticação, regras de negócio e integração com banco de dados.
 
-<br >
+**Portfolio**
+Aplicação desenvolvida com **React e TypeScript**, com foco em UI/UX, responsividade, animações e performance.
 
-<br >
+### 📚 Atualmente estudando
 
-**👾Stack Front-Dnd: TypeScript, React, Tailwind CSS, JavaScript, Sass, Figma**
-<br >
+**Python • Cloud • Node.js • Engenharia de Software**
 
-**👾Stack Back-End: Node.JS(Express & TypeScript) e Python**
-<br >
-
-**👾Banco de dados & ORMs: PostgreSQL & MySQL | Prisma & Sequelize**
-<br >
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
-<br>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-<br>
+### 🔗 Links
 
-### 🛠️ Tecnologias e Ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="Sass"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> &nbsp;
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;
-<br>
-
-### Contato
-
-<div>
-  <a href="https://linkedin.com/in/viniciussant07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:3izuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/__sant_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
+<p align="left">
+  <a href="https://sant-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/viniciussant07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:3izuna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
