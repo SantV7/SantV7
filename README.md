@@ -43,6 +43,8 @@ Previsão de conclusão: **06/2028**
 * Experiência com **Scrum e Kanban** e ferramentas como Jira, Trello e Notion.
 * Desenvolvimento de interfaces e protótipos utilizando **Figma**, incluindo componentes e UX Writing.
 
+<br>
+
 ### 📌 Projetos em destaque
 
 **Financial API**
