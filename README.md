@@ -9,7 +9,7 @@ Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Tenho expe
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**
 Previsão de conclusão: **06/2028**
 
-🎯 **Objetivo:** oportunidade de **Estágio em Desenvolvimento de Software / Full Stack**, buscando contribuir em projetos reais e continuar evoluindo em Engenharia de Software.
+🎯 **Objetivo:** oportunidade de **Estágio em Engenharia de Software**, buscando contribuir em projetos reais e continuar evoluindo em Engenharia de Software.
 
 <br>
 
