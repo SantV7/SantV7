@@ -4,6 +4,8 @@
 
 Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Tenho experiência prática no desenvolvimento de aplicações web, APIs RESTful e integração com bancos de dados, buscando aplicar **Clean Code, organização de código, performance e boas práticas de desenvolvimento**.
 
+<br>
+
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**
 Previsão de conclusão: **06/2028**
 
