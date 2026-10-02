@@ -1,4 +1,6 @@
-## 👾 Olá, eu sou o Vinícius
+## 👾 Opa! Eu sou o Vinícius | Software Engineer | Brasília, BR | 19y | 
+
+<br>
 
 **Desenvolvedor de Software**. Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
 Desenvolvimento de **APIs RESTful** seguras com **Node.js**, **Express**, **TypeScript**. Modelagem de dados eficiente utilizando bancos relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**). Aplicação de padrões de arquitetura de software e código limpo.
