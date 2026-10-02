@@ -1,63 +1,54 @@
 ## 👾 Olá, eu sou o Vinícius
 
-**Desenvolvedor de Software em formação e estudante de Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Front-end e Full Stack**.
+**Software Engineer e estudante de Análise e Desenvolvimento de Sistemas**, focado em construir aplicações web completas e APIs robustas de ponta a ponta.
 
-Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Tenho experiência prática no desenvolvimento de aplicações web, APIs RESTful e integração com bancos de dados, buscando aplicar **Clean Code, organização de código, performance e boas práticas de desenvolvimento**.
+Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Busco sempre aplicar **Clean Architecture, princípios SOLID, performance e rigor técnico** em cada entrega.
 
 <br>
 
-🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**
+🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
 Previsão de conclusão: **06/2028**
 
-🎯 **Objetivo:** oportunidade de **Estágio em Engenharia de Software**, buscando contribuir em projetos reais e continuar evoluindo em Engenharia de Software.
+🎯 **Objetivo:** Oportunidade de **Estágio em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 <br>
 
 ### 🚀 Principais conhecimentos
 
 **Frontend**
-
 * React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS
 
-**Backend**
+**Backend & Dados**
+* Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL
 
-* Node.js | Express | TypeScript | APIs RESTful
-
-
-**Banco de dados**
-
-* PostgreSQL | Prisma | SQL
-* 
-
-**Ferramentas**
-
-* Git & GitHub | Vercel | Figma | Notion 
+**Ferramentas & Práticas**
+* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Scrum & Kanban
 
 <br>
 
 ### 💻 Experiência em
 
-* Desenvolvimento de **APIs RESTful** com Node.js, Express e TypeScript.
-* Desenvolvimento de interfaces com **React e TypeScript**, com foco em responsividade, usabilidade e performance.
-* Integração entre aplicações Front-end, APIs e bancos de dados relacionais.
-* Modelagem e persistência de dados utilizando **PostgreSQL e Prisma**.
-* Aplicação de boas práticas de desenvolvimento, organização de código e Clean Code.
-* Experiência com **Scrum e Kanban** e ferramentas como Jira, Trello e Notion.
-* Desenvolvimento de interfaces e protótipos utilizando **Figma**, incluindo componentes e UX Writing.
+* Engenharia de **APIs RESTful** seguras com Node.js, Express, TypeScript, JWT e RBAC.
+* Desenvolvimento de interfaces escaláveis com **React e TypeScript**, priorizando usabilidade e performance.
+* Otimização de performance no cliente, com histórico comprovado de redução de até **58% em payloads de produção**.
+* Modelagem de dados eficiente utilizando bancos relacionais e NoSQL.
+* Aplicação rigorosa de padrões de arquitetura de software e código limpo.
 
 <br>
 
 ### 📌 Projetos em destaque
 
-**Financial API**
-API RESTful desenvolvida com **Node.js, TypeScript, Express, PostgreSQL e Prisma**, com autenticação, regras de negócio e integração com banco de dados.
+**Financial API**  
+API RESTful desenvolvida com **Node.js, TypeScript, Express, PostgreSQL e Prisma**, estruturada com Clean Architecture, SOLID, autenticação JWT e controle de acesso baseado em roles (RBAC).
 
-**Portfolio**
-Aplicação desenvolvida com **React e TypeScript**, com foco em UI/UX, responsividade, animações e performance.
+**Freelance E-commerce**  
+Aplicação web completa construída com **React, TypeScript e Node.js**, otimizada para alta performance com redução significativa de payload e gestão eficiente de estado e dados.
+
+<br>
 
 ### 📚 Atualmente estudando
 
-**Python • Cloud • Node.js • Engenharia de Software**
+**Python • Cloud Computing • Arquitetura de Software Avançada**
 
 <br>
 
@@ -75,6 +66,7 @@ Aplicação desenvolvida com **React e TypeScript**, com foco em UI/UX, responsi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/Concepts/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/>
