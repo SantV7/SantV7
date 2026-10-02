@@ -1,31 +1,30 @@
 ## 👾 Olá, eu sou o Vinícius
 
-**Desenvolvedor de Software** Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
-Desenvolvimento de **APIs RESTful** seguras com Node.js, Express, TypeScript. Modelagem de dados eficiente utilizando bancos relacionais (PostgreSQL e MySQL) e NoSQ (MongoDB). Engenharia de Software de padrões de arquitetura de software e código limpo.
+**Desenvolvedor de Software**. Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
+Desenvolvimento de **APIs RESTful** seguras com Node.js, Express, TypeScript. Modelagem de dados eficiente utilizando bancos relacionais (PostgreSQL e MySQL) e NoSQL (MongoDB). Aplicação de padrões de arquitetura de software e código limpo.
 
-Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Busco sempre aplicar **Clean Architecture, princípios SOLID, performance e rigor técnico** em cada entrega.
+Experiência principalmente com **React | TypeScript | Node.js | PostgreSQL**. Sempre aplicando **Clean Architecture, princípios SOLID, performance e visão a longo prazo de escalabilidade** em cada entrega.
 
 <br>
+
+🎯 **Objetivo:** Oportunidade de **estágio ou posição júnior em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
-2° Semestre
+2.° Semestre  
 Previsão de conclusão: **06/2028**
-
-🎯 **Objetivo:** Oportunidade de **Estágio em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 <br>
 
-### 🚀 Tecnologias / Prática / Tools 
+### 🚀 Tecnologias / Prática / Tools
 
 **Frontend**
 * React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS
 
 **Backend & Dados**
-* Node.js | Express | TypeScript | Python | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL 
+* Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL | PHP (noções/base) | Python (estudos)
 
 **Ferramentas & Práticas**
 * Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Scrum & Kanban
-
 
 <br>
 
