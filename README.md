@@ -1,15 +1,15 @@
 ## 👾 Olá, eu sou o Vinícius
 
 **Desenvolvedor de Software**. Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
-Desenvolvimento de **APIs RESTful** seguras com Node.js, Express, TypeScript. Modelagem de dados eficiente utilizando bancos relacionais (PostgreSQL e MySQL) e NoSQL (MongoDB). Aplicação de padrões de arquitetura de software e código limpo.
+Desenvolvimento de **APIs RESTful** seguras com **Node.js**, **Express**, **TypeScript**. Modelagem de dados eficiente utilizando bancos relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**). Aplicação de padrões de arquitetura de software e código limpo.
 
-Experiência principalmente com **React | TypeScript | Node.js | PostgreSQL**. Sempre aplicando **Clean Architecture, princípios SOLID, performance e visão a longo prazo de escalabilidade** em cada entrega.
+Experiência principalmente com **React** | **TypeScript** | **Node.js** | **PostgreSQL**. Sempre aplicando **Clean Architecture**, princípios **SOLID**, performance e visão a longo prazo de escalabilidade em cada entrega.
 
 ---
 
 <br>
 
-🎯 **Objetivo:** Oportunidade de **estágio ou posição júnior em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
+🎯 **Objetivo:** Oportunidade de estágio ou posição júnior em **Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 <br>
 
@@ -36,7 +36,7 @@ Previsão de conclusão: **06/2028**
 
 ### 📚 Atualmente estudando
 
-**Python | Cloud Computing (AWS) **
+****Python** | Cloud Computing (**AWS**) **
 
 <br>
 
