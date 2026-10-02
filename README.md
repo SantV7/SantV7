@@ -15,14 +15,13 @@ Experiência principalmente com **React** | **TypeScript** | **Node.js** | **Pos
 <br>
 
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
-2° Semestre  
-Previsão de conclusão: **06/2028**
+2° Semestre | Previsão de conclusão: **06/2028**
 
 ---
 
 <br>
 
-### 🚀 Tecnologias / Prática / Tools
+### 👾 Skills
 
 **Frontend: React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS**
  
