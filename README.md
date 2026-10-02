@@ -2,8 +2,7 @@
 
 <br>
 
-**Desenvolvedor de Software**. Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
-Desenvolvimento de **APIs RESTful** seguras com **Node.js**, **Express**, **TypeScript**. Modelagem de dados eficiente utilizando bancos relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**). Aplicação de padrões de arquitetura de software e código limpo.
+Desenvolvimento de interfaces intuitivas e responsivas com React e TypeScript, priorizando usabilidade e performance de ponta a ponta. Construção de APIs RESTful robustas e seguras utilizando Node.js, Express e TypeScript, com modelagem eficiente em bancos relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB). Rigor na aplicação de padrões de arquitetura de software e código limpo.
 
 Experiência principalmente com **React** | **TypeScript** | **Node.js** | **PostgreSQL**. Sempre aplicando **Clean Architecture**, princípios **SOLID**, performance e visão a longo prazo de escalabilidade em cada entrega.
 
