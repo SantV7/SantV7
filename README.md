@@ -56,9 +56,7 @@ Previsão de conclusão: **06/2028**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/Concepts/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
