@@ -4,7 +4,9 @@
 Desenvolvimento de **APIs RESTful** seguras com Node.js, Express, TypeScript. Modelagem de dados eficiente utilizando bancos relacionais (PostgreSQL e MySQL) e NoSQL (MongoDB). Aplicação de padrões de arquitetura de software e código limpo.
 
 Experiência principalmente com **React | TypeScript | Node.js | PostgreSQL**. Sempre aplicando **Clean Architecture, princípios SOLID, performance e visão a longo prazo de escalabilidade** em cada entrega.
+
 ---
+
 <br>
 
 🎯 **Objetivo:** Oportunidade de **estágio ou posição júnior em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
@@ -12,7 +14,9 @@ Experiência principalmente com **React | TypeScript | Node.js | PostgreSQL**. S
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
 2° Semestre  
 Previsão de conclusão: **06/2028**
+
 ---
+
 <br>
 
 ### 🚀 Tecnologias / Prática / Tools
@@ -24,8 +28,10 @@ Previsão de conclusão: **06/2028**
 * Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL | PHP (noções/base) | Python (estudos)
 
 **Ferramentas & Práticas**
-* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Jira | Trello | Scrum & Kanban 
+* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Jira | Trello | Scrum & Kanban
+* 
 ---
+
 <br>
 
 
@@ -34,7 +40,9 @@ Previsão de conclusão: **06/2028**
 **Python | Cloud Computing (AWS) **
 
 <br>
+
 ---
+
 ### 🛠️ Tecnologias
 
 <p align="left">
@@ -59,7 +67,9 @@ Previsão de conclusão: **06/2028**
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 ---
+
 ### 🔗 Links
 
 <p align="left">
