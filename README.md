@@ -61,9 +61,13 @@ Experiência principalmente com **React** | **TypeScript** | **Node.js** | **Pos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
+<br>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+<br>
 
 ---
 
