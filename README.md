@@ -1,38 +1,31 @@
 ## 👾 Olá, eu sou o Vinícius
 
-**Software Engineer e estudante de Análise e Desenvolvimento de Sistemas**, focado em construir aplicações web completas e APIs robustas de ponta a ponta.
+**Desenvolvedor de Software** Experiência em desenvolvimento de interfaces intuitivas e responsivas com **React e TypeScript**, trazendo usabilidade e performance.
+Desenvolvimento de **APIs RESTful** seguras com Node.js, Express, TypeScript. Modelagem de dados eficiente utilizando bancos relacionais (PostgreSQL e MySQL) e NoSQ (MongoDB). Engenharia de Software de padrões de arquitetura de software e código limpo.
 
 Minha stack principal é **React, TypeScript, Node.js e PostgreSQL**. Busco sempre aplicar **Clean Architecture, princípios SOLID, performance e rigor técnico** em cada entrega.
 
 <br>
 
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
+2° Semestre
 Previsão de conclusão: **06/2028**
 
 🎯 **Objetivo:** Oportunidade de **Estágio em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 <br>
 
-### 🚀 Principais conhecimentos
+### 🚀 Tecnologias / Prática / Tools 
 
 **Frontend**
 * React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS
 
 **Backend & Dados**
-* Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL
+* Node.js | Express | TypeScript | Python | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL 
 
 **Ferramentas & Práticas**
 * Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Scrum & Kanban
 
-<br>
-
-### 💻 Experiência em
-
-* Engenharia de **APIs RESTful** seguras com Node.js, Express, TypeScript, JWT e RBAC.
-* Desenvolvimento de interfaces escaláveis com **React e TypeScript**, priorizando usabilidade e performance.
-* Otimização de performance no cliente, com histórico comprovado de redução de até **58% em payloads de produção**.
-* Modelagem de dados eficiente utilizando bancos relacionais e NoSQL.
-* Aplicação rigorosa de padrões de arquitetura de software e código limpo.
 
 <br>
 
