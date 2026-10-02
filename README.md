@@ -1,4 +1,4 @@
-## 👾 Opa! Eu sou o Vinícius | Software Engineer | Brasília, BR | 19y 
+## 👾 Opa! Eu sou o Vinícius | Software Engineer | Inglês B1
 
 <br>
 
