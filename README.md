@@ -10,7 +10,7 @@ Experiência principalmente com **React | TypeScript | Node.js | PostgreSQL**. S
 🎯 **Objetivo:** Oportunidade de **estágio ou posição júnior em Engenharia de Software**, com foco em trazer valor imediato para equipas de desenvolvimento e evoluir em projetos de alta escala.
 
 🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**  
-2.° Semestre  
+2° Semestre  
 Previsão de conclusão: **06/2028**
 
 <br>
@@ -24,23 +24,14 @@ Previsão de conclusão: **06/2028**
 * Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL | PHP (noções/base) | Python (estudos)
 
 **Ferramentas & Práticas**
-* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Scrum & Kanban
+* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Jira | Trello | Scrum & Kanban 
 
 <br>
 
-### 📌 Projetos em destaque
-
-**Financial API**  
-API RESTful desenvolvida com **Node.js, TypeScript, Express, PostgreSQL e Prisma**, estruturada com Clean Architecture, SOLID, autenticação JWT e controle de acesso baseado em roles (RBAC).
-
-**Freelance E-commerce**  
-Aplicação web completa construída com **React, TypeScript e Node.js**, otimizada para alta performance com redução significativa de payload e gestão eficiente de estado e dados.
-
-<br>
 
 ### 📚 Atualmente estudando
 
-**Python • Cloud Computing • Arquitetura de Software Avançada**
+**Python | Cloud Computing (AWS) **
 
 <br>
 
