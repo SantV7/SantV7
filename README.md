@@ -21,15 +21,12 @@ Previsão de conclusão: **06/2028**
 
 ### 🚀 Tecnologias / Prática / Tools
 
-**Frontend**
-* React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS
+**Frontend: React | TypeScript | JavaScript | Tailwind CSS | HTML5 | CSS3 | SCSS**
+ 
+**Backend & Dados: Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL | PHP (noções/base) | Python (estudo ativo)**
 
-**Backend & Dados**
-* Node.js | Express | TypeScript | APIs RESTful | PostgreSQL | Prisma | MongoDB | SQL | PHP (noções/base) | Python (estudo ativo)
+**Ferramentas & Práticas: Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Excel | Jira | Trello | Scrum & Kanban**
 
-**Ferramentas & Práticas**
-* Clean Architecture | SOLID | Git & GitHub | Vercel | Figma | Notion | Jira | Trello | Scrum & Kanban
-* 
 ---
 
 <br>
