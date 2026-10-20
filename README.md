@@ -10,6 +10,31 @@ Tenho interesse em arquitetura de software, qualidade de código, performance e 
 
 ---
 
+## 💼 Experiência Profissional
+
+### Frontend Software Engineer | Ecommerce Private
+
+📅 Janeiro de 2025 · Freelance
+
+- Desenvolvi interfaces responsivas e de alta performance utilizando **React, TypeScript, SCSS e Tailwind CSS**.
+- Otimizei a renderização, os recursos de mídia e as animações, reduzindo o payload da aplicação em **58% (de 16,46 MB para 6,86 MB)**.
+- Contribuí para um aumento de **35% na retenção de usuários mobile**, por meio de melhorias de performance e experiência de uso.
+
+**Tecnologias:** React · TypeScript · SCSS · Tailwind CSS
+
+### Backend Software Developer | Financial Reports API
+
+📅 Fevereiro de 2026 · Freelance
+
+- Desenvolvi uma **API RESTful** utilizando Node.js, Express e TypeScript, seguindo os princípios da **Clean Architecture**.
+- Estruturei a persistência de dados com **PostgreSQL, Prisma ORM e SQL**.
+- Implementei autenticação JWT e controle de acesso baseado em funções (**RBAC**) para proteger rotas e recursos.
+- Configurei ambientes com **Docker**, automatizei testes com **Jest** e utilizei Git/GitHub para versionamento de código.
+
+**Tecnologias:** Node.js · Express · TypeScript · PostgreSQL · Prisma · SQL · JWT · Docker · Jest · Git
+
+---
+
 ## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília**
@@ -74,24 +99,4 @@ Git · GitHub · Postman · Figma · Vercel · Jira · Trello · Notion · Scrum
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 🔗 Conecte-se comigo
-
-<p align="left">
-  <a href="https://sant-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="https://linkedin.com/in/viniciussant07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SantV7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:3izuna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantV7&theme=tokyonight
