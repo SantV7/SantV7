@@ -64,7 +64,6 @@ Git · GitHub · Postman · Figma · Vercel · Jira · Trello · Notion · Scrum
 ---
 
 ## 📚 Atualmente estudando
-
 - **Python:** aprofundamento na linguagem e suas aplicações.
 - **Docker:** fundamentos de containerização e ambientes de desenvolvimento.
 - **AWS:** fundamentos de computação em nuvem.
